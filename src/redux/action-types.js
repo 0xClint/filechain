@@ -1,0 +1,7 @@
+export const GET_TITLE = "GET_TITLE";
+export const GET_FILE = "GET_FILE";
+export const GET_USER_ADDRESS = "GET_USER_ADDRESS";
+export const GENERATE_HASH = "GENERATE_HASH";
+export const GENERATE_ROOT_HASH = "GENERATE_ROOT_HASH";
+export const GET_COMMITS = "GET_COMMITS";
+export const LAST_COMMIT_INDEX = "LAST_COMMIT_INDEX";

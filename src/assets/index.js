@@ -1,0 +1,12 @@
+export { ReactComponent as FileIcon } from "./file.svg";
+export { ReactComponent as CopyIcon } from "./CopyIcon.svg";
+export { ReactComponent as TurnOff } from "./off.svg";
+export { ReactComponent as UserIcon } from "./polygonLogo.svg";
+export { ReactComponent as RightArrow } from "./rightArrow.svg";
+export { ReactComponent as SuccessIcon } from "./successIcon.svg";
+export { ReactComponent as Github } from "./github.svg";
+export { ReactComponent as Wrong } from "./wrongIcon.svg";
+export { ReactComponent as Logo } from "./Logo.svg";
+export { ReactComponent as FileUpload } from "./fileUpload.svg";
+export { ReactComponent as FileSelected } from "./fileSelected.svg";
+// export { ReactComponent as PolygonLogo } from "./polygonLogo.svg";
